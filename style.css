@@ -1,0 +1,13 @@
+.cabecalho{
+    display: flex;
+    background: #0A0332;
+    justify-content: space-between;
+}
+
+.menu-header{
+    color: white;
+}
+
+.container{
+    width: 1200px;
+}
